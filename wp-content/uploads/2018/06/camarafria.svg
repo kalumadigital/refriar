@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.866 39.699">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d72af;
+      }
+    </style>
+  </defs>
+  <g id="minibar" transform="translate(-35.97)">
+    <g id="Group_7" data-name="Group 7" transform="translate(35.97)">
+      <path id="Path_15" data-name="Path 15" class="cls-1" d="M63.836,1.886A1.888,1.888,0,0,0,61.95,0H37.856A1.888,1.888,0,0,0,35.97,1.886V34.343a1.888,1.888,0,0,0,1.886,1.886H61.95a1.888,1.888,0,0,0,1.886-1.886V1.886ZM61.478,33.872H38.328V2.358H61.478Z" transform="translate(-35.97)"/>
+      <path id="Path_16" data-name="Path 16" class="cls-1" d="M62.975,227.011H37.819a1.179,1.179,0,0,0,0,2.358H62.975a1.179,1.179,0,0,0,0-2.358Z" transform="translate(-36.53 -189.67)"/>
+      <path id="Path_17" data-name="Path 17" class="cls-1" d="M66.494,78.023a1.179,1.179,0,0,0,1.179-1.179V61.218a1.179,1.179,0,1,0-2.358,0V76.842A1.179,1.179,0,0,0,66.494,78.023Z" transform="translate(-60.488 -50.163)"/>
+    </g>
+  </g>
+</svg>
